@@ -16,5 +16,5 @@ Dibuat dengan:
 
 # Shorturl
 
-[![Badge Github](https://img.shields.io/badge/-Muhamad Aqmal Maulana-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muhamadAqmal13)](https://github.com/muhamadAqmal13)
-[![Badge Instagram](https://img.shields.io/badge/-Muhamad Aqmal Maulana-cd486b?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/malmalaq\_/)](https://www.instagram.com/malmalaq_/)
+[(https://img.shields.io/badge/-Muhamad Aqmal Maulana-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muhamadAqmal13)](https://github.com/muhamadAqmal13)
+[(https://img.shields.io/badge/-Muhamad Aqmal Maulana-cd486b?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/malmalaq\_/)](https://www.instagram.com/malmalaq_/)
